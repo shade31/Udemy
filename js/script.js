@@ -16,6 +16,6 @@ console.log(5%2);
 console.log(2 + 2 * 2 !== '6');
 
 const isCheked = false,
-      isClose = false;
+      isClose = false
 
 console.log(isCheked || !isClose);
